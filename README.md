@@ -1,7 +1,7 @@
 # 2022-team
 # Welcome to our organization!
 
-# [Ionio2022team](https://github.com/Ionio2022team)
+# [2022team](https://github.com/Ionio2022team)
 
 ## We are presenting you our team 
 
