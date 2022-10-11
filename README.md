@@ -9,7 +9,7 @@
 |-------|-----|-----------------|-----------|-------|
 ||Admin| Elias Takkas|Π2018198|[Know me!](https://github.com/eliastks09)|
 ||Member| Despina Komodiki|Π2018205|[Know me!](https://github.com/despina-komo)|
-||Member|Panagiotis Kargas|Π2016|[Know me!]()|
+||Member|Panagiotis Kargas|Π2016190|[Know me!](https://github.com/p16karg)|
 
 
 We are pleased to cooperate with our members and we are looking forward to complete the exercise in time!
